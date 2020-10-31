@@ -3,6 +3,9 @@
 
 todo:
 
+### Database file path
+# db_file: ~/.todo/db.json
+
 ### Toggle application level debug (does not toggle framework debugging)
 # debug: false
 
